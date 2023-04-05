@@ -1,3 +1,6 @@
+![gitGif](https://user-images.githubusercontent.com/102857782/230227927-1353a263-635c-4437-9b19-30901b3ae87b.gif)
+
+
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
 <h3 align="center">Aspiring and self-motivated Full Stack Web Developer proficient in creating user friendly ready to use web application attired with front-end as well as back-end technologies.</h3>
 
