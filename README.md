@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashanksinha9592" alt="shashanksinha9592" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shashanksinha9592.github.io/](https://shashanksinha9592.github.io/)
+- 👨‍💻 [Portfolio](https://shashanksinha9592.github.io/)
 
-- 📫 How to reach me **shashank9592sinha@gmail.com**
+- 📫 Gmail **shashank9592sinha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z7JnDSB9Hxzk7NPIkWnABZ5InF2uy54F/view?usp=share_link](https://drive.google.com/file/d/1Z7JnDSB9Hxzk7NPIkWnABZ5InF2uy54F/view?usp=share_link)
+- 📄 [Resume](https://drive.google.com/file/d/1Z7JnDSB9Hxzk7NPIkWnABZ5InF2uy54F/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
