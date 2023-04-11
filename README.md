@@ -2,7 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
-<h3 align="center">Aspiring and self-motivated Full Stack Web Developer proficient in creating user friendly ready to use web application attired with front-end as well as back-end technologies.</h3>
+<h3 align="center">A Java Backend Developer skilled in both front-end
+and back-end development, expertise in Java,
+Spring, Spring Boot, HTML, CSS, and JavaScript and
+possess hands-on experience in building efficient
+web applications. A diverse skill set and problemsolving abilities makes a valuable asset to any
+development team.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashanksinha9592&label=Profile%20views&color=0e75b6&style=flat" alt="shashanksinha9592" /> </p>
 
